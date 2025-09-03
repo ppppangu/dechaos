@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/
+data2/
+
+GEMINI.md
+CLAUDE.md
+.kiro/
