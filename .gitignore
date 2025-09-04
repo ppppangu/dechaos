@@ -212,3 +212,4 @@ data2/
 GEMINI.md
 CLAUDE.md
 .kiro/
+__pycache__/
